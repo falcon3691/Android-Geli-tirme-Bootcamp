@@ -1,4 +1,4 @@
-Bu ödevde Kotlin içinde bulunan temel veri türleri ile ilgili bir alıştırma yapılmıştır.<br>
+Bu ödevde Kotlin içinde bulunan temel veri türlerini oluşturma ve ekranda "println" komutu ile yazdırma üzerine bir alıştırma yapılmıştır.<br>
 Kullanılan veri türleri:
 <ol>
   <li>String</li>
