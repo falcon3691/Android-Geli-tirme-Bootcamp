@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TasarimUygulamasi</string>
+    <string name="fiyatYazi">48,99₺</string>
+    <string name="pizzaAciklama">Et sever, pizzanla tanışmaya hazırlan!</string>
+    <string name="teslimatBaslik">Teslimat</string>
+    <string name="teslimatSure">20 dk</string>
+    <string name="pizzaBaslik">Etli Peynirli</string>
+    <string name="buttonYazi">Sepete Ekle</string>
+    <string name="biberYazi">Biber</string>
+    <string name="zaytinYazi">Zeytin</string>
+    <string name="sucukYazi">Sucuk</string>
+    <string name="peynirYazi">Peynir</string>
+    <string name="uygulamaBaslik">Pizza</string>
+    <string name="pizzaResim">pizza resmi</string>
+</resources>
