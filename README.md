@@ -15,3 +15,6 @@ Bu depo, **Pupilica** üzerinden aldığım **Android Geliştirme Bootcamp** eğ
 
 4. [**Ödev 4**](https://github.com/falcon3691/Android-Geli-tirme-Bootcamp/tree/main/Odev4)  
    ➤ Fragment’lar arası geçiş işlemlerinin gerçekleştirilmesi.
+
+5. [**Ödev 5**](https://github.com/falcon3691/Android-Geli-tirme-Bootcamp/tree/main/Odev5)  
+   ➤ Basit bir hesaplama makinesi uygulaması yapıldı.
