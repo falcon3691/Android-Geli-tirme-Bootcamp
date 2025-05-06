@@ -11,12 +11,6 @@ Bu ödev kapsamında, Android uygulamalarında **fragment oluşturma** ve **frag
 5. **Navigation Component** kullanarak fragment'lar arasında geçiş işlemlerini gerçekleştirdim.
 6. Geri tuşuna basıldığında kullanıcıyı ana sayfaya yönlendiren özel bir yapı kurdum. Bu amaçla `OnBackPressedCallback` sınıfını ve `onBackPressedDispatcher` özelliğini kullandım.
 
-## ✨ Ek Bilgiler
-
-- Fragment'lar arası geçişler, `Navigation Graph` üzerinden görsel olarak tanımlandı ve `NavController` ile kontrol edildi.
-- `OnBackPressedDispatcher` sayesinde, geri tuşuna basıldığında istenilen fragment'a yönlendirme yapılması sağlandı.
-- Bu uygulama, Android'de çok sayfalı yapıların yönetimini ve kullanıcı deneyimini iyileştirmeye yönelik temel yapıların nasıl kullanılacağını öğretmektedir.
-
 ---
 
 🛠️ Bu çalışma, Android geliştirmenin temellerini anlamak ve uygulamak için güçlü bir adımdı.
