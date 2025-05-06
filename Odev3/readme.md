@@ -1,7 +1,18 @@
-Bu ödevde derste işlenen özellikleri bir tasarım üzerinde gerçekelştirdim.<br>
-Bu ödevde yaptıklarım:
-<ol>
-<li>String dosyasının içeriğini düzenleyerek, ekrandaki yazıları hem İngilizce hem de Türkçe olacak şekilde ayarladım.</li>
-<li>Uygulamanın adını ve icon resmini değiştirdim.</li>
-<li>Ekran tasarımını Aydınlık ve Karanlık olacak şekilde, colors dosyasındaki renk kodlarını düzenledim.</li>
-</ol>
+# 🎨 Ödev 3: Temel Uygulama Tasarımı ve Tema Ayarları
+
+Bu ödevde, derste öğrenilen temel Android geliştirme özelliklerini bir arayüz tasarımı üzerinde uyguladım.
+
+## ✅ Bu ödevde gerçekleştirdiklerim:
+
+1. **Çoklu dil desteği sağladım.**  
+   `strings.xml` dosyasını düzenleyerek, uygulamadaki metinleri hem Türkçe hem İngilizce olacak şekilde yapılandırdım.
+
+2. **Uygulamanın adını ve ikonunu değiştirdim.**  
+   AndroidManifest üzerinden gerekli düzenlemeleri yaparak uygulamaya özgü bir görünüm kazandırdım.
+
+3. **Aydınlık (Light) ve Karanlık (Dark) tema desteği ekledim.**  
+   `colors.xml` dosyasında yer alan renk kodlarını her iki tema için ayrı ayrı tanımlayarak, cihaz temasına göre dinamik renk değişimi sağladım.
+
+---
+
+🔧 Bu ödev sayesinde, temel uygulama kişiselleştirme ve tema yapılandırma konularında önemli pratikler yapıldı.
