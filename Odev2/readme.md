@@ -1,7 +1,14 @@
-Bu ödevde verilen soruları çözmek için fonksiyonlar yazdım.<br>
-Bu ödevde öğrendiklerim:
-<ol>
-  <li>Kotlin üzerinde NULL değerlerin kontrolünü yapmak.</li>
-  <li>ternary operatorünü Kotlin dilinde nasıl kullanılacağı.</li>
-  <li>Kotlin dilinde matematiksel işlemlerin farklı şekilde nasıl yapılacağı</li>
-</ol>
+# 🧮 Ödev 2: Fonksiyonlarla Problem Çözme
+
+Bu ödevde, verilen problemleri çözmek amacıyla Kotlin programlama dilinde çeşitli fonksiyonlar yazılmıştır.
+
+## 🎯 Bu ödevle kazanılan beceriler
+
+- Kotlin'de **null değerlerin kontrolü** nasıl yapılır, pratik edildi.
+- Kotlin'de **koşullu ifadelerin (ternary operator benzeri yapının)** nasıl yazıldığı öğrenildi.  
+  (Not: Kotlin'de doğrudan ternary operatörü yoktur; bunun yerine `if` ifadeleri kullanılır.)
+- **Matematiksel işlemlerin farklı yollarla nasıl yapılabileceği** üzerinde uygulamalar yapıldı.
+
+---
+
+📌 Bu ödev sayesinde fonksiyon yazımı, kontrol yapıları ve Kotlin’in temel söz dizimi konularında pratik kazanılmıştır.
